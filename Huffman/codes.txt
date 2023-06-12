@@ -1,0 +1,22 @@
+Ï is 11110 
+Ô is 111001 
+Ç is 01011 
+Ë is 111000 
+Ğ is 111011 
+Ö is 111010 
+é is 100 
+ø is 001 
+ï is 000 
+ğ is 101101 
+ë is 01010 
+ù is 110 
+ö is 011 
+ô is 10101 
+Î is 101100 
+  is 0100 
+ç is 101111 
+î is 11111 
+à is 101110 
+. is 101001 
+~ is 101000 
+Where ~ is the end of line character
